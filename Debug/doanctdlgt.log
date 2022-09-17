@@ -1,0 +1,33 @@
+﻿  Console.cpp
+D:\projects_dev\TUDIEN\doanctdlgt\Console.cpp(109,42): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  main.cpp
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(413,6): warning C4309: '=': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(414,6): warning C4309: '=': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(415,6): warning C4309: '=': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(416,6): warning C4309: '=': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(417,6): warning C4309: '=': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(418,6): warning C4309: '=': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(460,11): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(482,11): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(537,113): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(540,114): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(543,114): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(570,22): warning C4018: '<': signed/unsigned mismatch
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(888,16): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(902,16): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(916,16): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(930,16): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(944,16): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1028,13): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1065,13): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1105,13): warning C4309: 'initializing': truncation of constant value
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1123,22): warning C4018: '<=': signed/unsigned mismatch
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1246,23): warning C4018: '<': signed/unsigned mismatch
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1380,115): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1383,115): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1386,115): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1389,115): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1486,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1491,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\projects_dev\TUDIEN\doanctdlgt\main.cpp(1496,36): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  doanctdlgt.vcxproj -> D:\projects_dev\TUDIEN\doanctdlgt\Debug\doanctdlgt.exe
